@@ -1,0 +1,33 @@
+package com.neotech.lesson08;
+
+public class WhileLoopExamples {
+	
+	public static void main(String[] args) {
+		
+		
+		int a = 50;
+		
+		while (a >=1)
+		{
+			if (a % 2 == 0)
+				
+			System.out.println(a + " ");
+			a++;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
