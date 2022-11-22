@@ -23,10 +23,10 @@ public class ReplaceDemo {
 		System.out.println("Let's remove the dashes from ssn");
 		String numbers = ssn.replace("-", "");
 		System.out.println(numbers);
-​
+		
 		// A task for hard working students
 		// Hide all the numbers and leave the last four digits of ssn
 		// ***-***-8745
-​
+
 	}
 }

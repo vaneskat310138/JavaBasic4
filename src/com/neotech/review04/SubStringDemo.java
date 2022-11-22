@@ -15,11 +15,11 @@ public class SubStringDemo {
 
 		longStr = longStr.substring(10); // re-assinging
 		System.out.println("longStr -> " + longStr);
-​
+		
 		// Run-time Error
 		// longStr.substring(8, 5);
 		// longStr.substring(5, 100);
 		// longStr.substring(-5, 10);
-​
+
 	}
 }
